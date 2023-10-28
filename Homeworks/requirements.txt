@@ -5,3 +5,4 @@ seaborn
 fracridge
 scikit-learn
 rdrobost
+torch
