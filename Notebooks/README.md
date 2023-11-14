@@ -47,3 +47,5 @@
 
 3. **05** : In the context of a classification problem, a threshold is a value which determines whether a given instance prediction is positive or negative based on the predicted probability or score.
 By varying the threshold, you can control the trade-off between precision and recall. A lower threshold will classify more instances as positive, increasing recall but possibly decreasing precision. Conversely, a higher threshold will classify fewer instances as positive, possibly increasing precision but decreasing recall.
+
+4. **06**: Using log(Y) of the variable we want to predict => The coefficient of the ols can be interpreted as the percentage.
